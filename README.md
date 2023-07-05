@@ -13,7 +13,7 @@ Hello, and welcome to my profile! I am grateful for your visit. With my four yea
 <!-- - 🌱 I’m currently working **React** -->
 - 🔭 I’m always working on **improving my skills**
 - 👨‍💻 Personal portfolio: **<a href="https://ashwintelmore.com/" target="_blank">Portfolio</a>**
-- 📫 How to reach me: **ashwintelmore@gmail.com**
+- 📫 How to reach me: **developer@ashwintelmore.com**
 <!-- - ⚡ Fun fact **I am deeply in love with Tailwind ❤️** -->
 
 ---
