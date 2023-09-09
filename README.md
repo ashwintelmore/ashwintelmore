@@ -2,7 +2,7 @@
 **`Web Developer || C and C++ || Freelancer`** 🖤❤💜
 <br>
 Hello, and welcome to my profile! I am grateful for your visit. With my four years of experience in web development,I specialize in both frontend and backend development, making me a versatile developer capable of handling various aspects of a project. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the project with artistic touches.
- I post my projects content and learnings on my Linkedin profile "[AshwinTelmore](https://www.linkedin.com/in/fashwintelore/)". I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
+ I post my projects content and learnings on my Linkedin profile "[AshwinTelmore](https://www.linkedin.com/in/ashwintelmore)". I always try to beat previous me and make myself better day by day, giving my best to learn and acquire top skills and become a great developer. 🎯
 
 
 #
